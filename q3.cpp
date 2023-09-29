@@ -1,3 +1,5 @@
+3.Write a program to check whether a number is prime or not, with the help of Fermat’s little theorem.
+
 #include<iostream>
 #include<cmath>
 using namespace std;
