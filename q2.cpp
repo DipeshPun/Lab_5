@@ -1,3 +1,5 @@
+2. Write a program to generate the next r combination in lexicographic order.
+
 #include <iostream>
 using namespace std;
 void nextCombination(int a[], int r, int n)
