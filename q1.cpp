@@ -1,3 +1,5 @@
+ 1.Write a program to generate the next permutation in lexicographic order.
+
 #include <iostream>
 using namespace std;
 void nextPermutation(int arr[], int n) {
